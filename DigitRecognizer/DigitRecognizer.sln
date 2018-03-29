@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{4C854BA4-B
 		Data\validationsample.csv = Data\validationsample.csv
 	EndProjectSection
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fsharp", "Fsharp\Fsharp.fsproj", "{BFB2CFFC-A334-45ED-B279-A4376A59A0AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A3EB1DE0-2D37-49A3-B710-58867F358E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3EB1DE0-2D37-49A3-B710-58867F358E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3EB1DE0-2D37-49A3-B710-58867F358E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB2CFFC-A334-45ED-B279-A4376A59A0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB2CFFC-A334-45ED-B279-A4376A59A0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB2CFFC-A334-45ED-B279-A4376A59A0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB2CFFC-A334-45ED-B279-A4376A59A0AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
