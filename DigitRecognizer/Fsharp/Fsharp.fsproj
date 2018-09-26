@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Temp.fsx" />
     <None Include="Script.fsx" />
     <Compile Include="Library.fs" />
   </ItemGroup>
