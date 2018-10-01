@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "HamOrSpam", "HamOrSpam\HamOrSpam.fsproj", "{3D995222-6C0E-45D9-A66C-BECBBD28A6B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{DB5A484E-E163-4EEC-B194-3CD7DC2E71A8}"
+	ProjectSection(SolutionItems) = preProject
+		Data\SMSSpamCollection = Data\SMSSpamCollection
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D995222-6C0E-45D9-A66C-BECBBD28A6B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D995222-6C0E-45D9-A66C-BECBBD28A6B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D995222-6C0E-45D9-A66C-BECBBD28A6B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D995222-6C0E-45D9-A66C-BECBBD28A6B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA513B55-9344-436C-836E-F40184F501E2}
+	EndGlobalSection
+EndGlobal
